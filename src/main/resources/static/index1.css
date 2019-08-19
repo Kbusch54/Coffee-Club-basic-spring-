@@ -1,0 +1,8 @@
+@charset "UTF-8";
+.bluetext{
+	 color: blue;
+}
+body{
+  background-image: "coffeeBeans.jpg";
+  background-repeat: no-repeat;
+} 
