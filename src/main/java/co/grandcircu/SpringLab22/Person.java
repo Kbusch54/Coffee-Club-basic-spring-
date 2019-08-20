@@ -10,6 +10,7 @@ public class Person {
 	private String password;
 	private String phoneNumber;
 	private String gender;
+	private String howDidYouHear;
 	public Person() {
 		super();
 		// TODO Auto-generated constructor stub
